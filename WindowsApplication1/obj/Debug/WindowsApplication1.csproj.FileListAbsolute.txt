@@ -1,0 +1,10 @@
+C:\Users\pes\Desktop\article_src\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\pes\Desktop\article_src\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\pes\Desktop\article_src\WindowsApplication1\bin\Debug\appcontrol.dll
+C:\Users\pes\Desktop\article_src\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.AssemblyReference.cache
+C:\Users\pes\Desktop\article_src\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\pes\Desktop\article_src\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.cache
+C:\Users\pes\Desktop\article_src\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\pes\Desktop\article_src\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.CopyComplete
+C:\Users\pes\Desktop\article_src\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\pes\Desktop\article_src\WindowsApplication1\obj\Debug\WindowsApplication1.pdb

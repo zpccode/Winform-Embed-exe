@@ -1,0 +1,8 @@
+C:\Users\pes\Desktop\article_src\AppControl\bin\Debug\AppControl.dll
+C:\Users\pes\Desktop\article_src\AppControl\bin\Debug\AppControl.pdb
+C:\Users\pes\Desktop\article_src\AppControl\obj\Debug\AppControl.csproj.AssemblyReference.cache
+C:\Users\pes\Desktop\article_src\AppControl\obj\Debug\AppControl.ApplicationControl.resources
+C:\Users\pes\Desktop\article_src\AppControl\obj\Debug\AppControl.csproj.GenerateResource.cache
+C:\Users\pes\Desktop\article_src\AppControl\obj\Debug\AppControl.csproj.CoreCompileInputs.cache
+C:\Users\pes\Desktop\article_src\AppControl\obj\Debug\AppControl.dll
+C:\Users\pes\Desktop\article_src\AppControl\obj\Debug\AppControl.pdb
